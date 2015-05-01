@@ -1,0 +1,5 @@
+javascripts:
+  files:
+    - lib/robot.js
+  specs:
+    - spec/robot.spec.js

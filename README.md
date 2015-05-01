@@ -4,12 +4,7 @@ tags: oo, randomness
 ---
 
 # Robot Name
-## Getting Started
 
-Run `npm install`
+## Instructions
 
-## Tests
-
-Run `grunt watch` then edit your files. Grunt will watch for changes. Grunt
-will only run tests that start with `it`. When you finish passing a test,
-remove the `x` from `xit` to convert it to a runnable test.
+You'll be making an object-oriented Robot in JavaScript. Take a look at `spec/robot.spec.js` to see what you should be going for. Then run `learn` or `learn -b` from your terminal to get started.
