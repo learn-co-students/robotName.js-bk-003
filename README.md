@@ -1,7 +1,4 @@
----
-languages: javascript
-tags: oo, randomness
----
+
 
 # Robot Name
 
